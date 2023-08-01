@@ -96,7 +96,7 @@ class PasswordTextField extends StatelessWidget {
         pass = value;
       },
       style: TextStyle(
-          color: Colors.white, fontSize: 15.0, fontWeight: FontWeight.w600),
+          color: Colors.white, fontSize: 16.0, fontWeight: FontWeight.w600),
       cursorColor: Colors.white,
       obscureText: true,
       decoration: InputDecoration(
